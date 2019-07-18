@@ -1,7 +1,5 @@
-GLPI
-=
-
 FTP : File Transfert Protocol – RFC959
+=
 
 D’après le RFC 959, Bhushan Abbay a créé et défini le 1er standard du protocole FTP en 1971, sous RFC 114 en tant que MIT-Project MAC.
 Permet l’échange de fichiers, entre un serveur FTP et un client FTP.
